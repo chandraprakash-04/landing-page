@@ -1,2 +1,2 @@
-# landing-page
+# landingpage
 gym landing page
